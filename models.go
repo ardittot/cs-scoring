@@ -235,7 +235,7 @@ func (l Las_t_kupedes_scoring_clean) Score() Las_kupedes_scored {
     return l1
 }
 
-// LAS_STATUS
+// LAS_SCORE
 type Las_kupedes_scored struct {
     ID_Scoring uint64 `json:"id_scoring" default:nil`
     Score float32 `json:"score" default:nil`
