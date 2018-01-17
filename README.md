@@ -11,7 +11,7 @@ go get -u github.com/gin-gonic/gin
 Compile & run
 ```
 go build
-./cs-scoring-las
+./cs-scoring
 ```
 
 API Specs
